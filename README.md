@@ -63,7 +63,7 @@ I am a passionate Backend Developer specializing in building **enterprise-grade,
 ### 📬 Let's Connect!
 I am currently **available for immediate freelance contracts, bug-fixing gigs, and full-time remote opportunities**.
 
-- **Email:** [Your Email Address Here]
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
+- **Email:** kratigupta1214@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/krati-gupta-12987182
 
 *Feel free to explore my repositories, open an issue, or drop a message for collaborations!*
