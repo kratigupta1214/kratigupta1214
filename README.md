@@ -53,10 +53,12 @@ I am a passionate Backend Developer specializing in building **enterprise-grade,
 ---
 
 ### 🧰 What I Can Do For Your Business / Projects:
-- 🏗️ **Microservices Design:** Building fault-tolerant distributed networks from scratch or optimizing existing infrastructure.
+- 🚀 **End-to-End Spring Boot Development:** Developing secure, robust, and production-ready enterprise applications and REST APIs from scratch.
+- 🏗️ **Microservices Design:** Building fault-tolerant distributed networks from scratch or optimizing existing infrastructure using Spring Cloud.
 - 📡 **Event-Driven Setup:** Configuring Apache Kafka pipelines and Redis caches for sub-millisecond response times.
 - 🛠️ **Bug Fixing & Optimization:** Resolving tricky Spring Boot configuration errors, Eureka discovery drops, or Docker configuration crashes.
 - 📦 **Containerization:** Writing clean Dockerfiles and Docker Compose scripts for seamless production deployment.
+
 
 ---
 
